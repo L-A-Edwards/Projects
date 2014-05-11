@@ -83,15 +83,8 @@ public class guessBirthday {
 		if (answer == 1)
 			day += 16;
 		
-		System.out.println("\nYour birthday is " + day + "!");	
-		
-		
-		
-		
-		
-		
-		
-		
+		// Display answer
+		System.out.println("\nYour birthday is " + day + "!");		
 		
 		}
 
