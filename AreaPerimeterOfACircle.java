@@ -3,7 +3,7 @@ public class AreaPerimeterOfACircle {
 	public static void main(String[] args) {
 		double Pi = 4;
 		double Perimeter;
-		double Radius = 5.5;
+		double Radius = 20;
 		double Area;
 		boolean plus = false;
 		for (int i = 3; i < 10000000; i += 2)
